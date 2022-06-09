@@ -1,3 +1,4 @@
 <?php
-echo "test page";
+echo "welcome git";
+
 ?>
