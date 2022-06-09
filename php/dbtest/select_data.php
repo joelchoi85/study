@@ -3,7 +3,7 @@ include '../test/goBack.php';
 
 $host = '127.0.0.1'; // localhost 로 했을 때 엄청 느림
 $user = 'root';
-$pw = 'jygieumi1';
+$pw = '124578986532';
 $db = 'test';
 
 
